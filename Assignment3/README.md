@@ -8,8 +8,8 @@ Call the next middleware function in the stack.
 If the current middleware function does not end the request-response cycle, it must call next() to pass control to the next middleware function. Otherwise, the request will be left hanging.
 
 ### An Express application can use the following types of middleware:
-Application-level middleware
-Router-level middleware
-Error-handling middleware
-Built-in middleware
+Application-level middleware<br>
+Router-level middleware<br>
+Error-handling middleware<br>
+Built-in middleware<br>
 Third-party middleware
