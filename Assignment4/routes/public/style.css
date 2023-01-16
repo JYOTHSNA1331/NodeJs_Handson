@@ -1,0 +1,9 @@
+body{
+    background-color: #66b8ad;
+   }
+   
+   form{
+    width: 45%;
+    display: inline-block;
+    margin: 20px;
+   }
